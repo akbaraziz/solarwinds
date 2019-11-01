@@ -1,0 +1,2 @@
+# To check login to URL from curl
+curl -k -u akbar:P@ssword1 https://ipofipamserver:177787/SolarWinds/InformationService/v3/Json/Query?query=SELECT+Caption+FROM+Orion.Nodes
